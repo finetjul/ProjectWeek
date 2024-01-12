@@ -71,3 +71,4 @@ The discussion here made it easier to test a prototype and this project builds o
 
 [How to load nifti file from web browser link? - Development - 3D Slicer Community](https://discourse.slicer.org/t/how-to-load-nifti-file-from-web-browser-link/18664/5)
 [SlicerSandbox/LoadRemoteFile/LoadRemoteFile.py at master · PerkLab/SlicerSandbox (github.com)](https://github.com/PerkLab/SlicerSandbox/blob/master/LoadRemoteFile/LoadRemoteFile.py)
+[Unmaintained Chrome/Firefox/Edge extension to open Slicer on links](https://github.com/KitwareMedical/KitwareFileViewers)
